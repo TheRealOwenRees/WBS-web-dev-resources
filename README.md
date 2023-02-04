@@ -1,4 +1,4 @@
-[][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][]
 # WBS Web & App Development Bootcamp (January 25th 2023) Resources
 A collection of resources from the WBS Web & App Development Bootcamp 
 
@@ -32,6 +32,8 @@ A collection of resources from the WBS Web & App Development Bootcamp
 [CSS Keyframes Animation Code Generator](https://www.doozytools.com/dev-tools/css-animation-generator)
 
 [Figma Youtube](https://www.youtube.com/@Figma)
+
+[Getting Started with Visual Studio Code and Building HTML Websites](https://www.codecademy.com/paths/web-development/tracks/styling-a-website/modules/local-website-development/articles/visual-studio-code)
 
 ## UI / UX
 [Balsamiq](https://balsamiq.com/)
@@ -93,6 +95,27 @@ A collection of resources from the WBS Web & App Development Bootcamp
 
 [JavaScript Homework](https://www.codecademy.com/courses/learn-git/projects/js-homework)
 
+[Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
+[Visualize Git](https://github.com/git-school/visualizing-git)
+
+[Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
+[Gitflow workflow vs Feature Branch workflow](https://medium.com/medvine/gitflow-workflow-vs-feature-branch-workflow-8fb4c26571c5)
+
+
+# Javascript
+
+
+# Miscellaneous Programming Guides
+[Rubber Duck Debugging](https://rubberduckdebugging.com/)
+
+[Introduction to Variables](https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-variables/exercises/variables-intro)
+
+[Thinking About Errors in Your Code Differently](https://www.codecademy.com/paths/web-development/tracks/webdev-intermediate-javascript/modules/errors-and-error-handling/articles/thinking-about-errors-in-your-code-differently)
+
+[Learn How to Code](https://www.codecademy.com/learn/learn-how-to-code)
+
 # Dev Tools
 [Google Dev Tools](https://developer.chrome.com/docs/devtools/overview/)
 
@@ -102,7 +125,6 @@ A collection of resources from the WBS Web & App Development Bootcamp
 
 [Ceros Inspect](https://inspect.ceros.com/design-upload)
 
-[Rubber Duck Debugging](https://rubberduckdebugging.com/)
 
 # VS Code Extensions
 [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
