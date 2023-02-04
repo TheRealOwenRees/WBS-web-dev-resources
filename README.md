@@ -1,5 +1,5 @@
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+# WBS Web & App Development Bootcamp (January 25th 2023) Resources
 A collection of resources from the WBS Web & App Development Bootcamp 
 
 # HTML/CSS
@@ -23,6 +23,13 @@ A collection of resources from the WBS Web & App Development Bootcamp
 
 [Relative Measurements](https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/responsive-design-and-accessibility/modules/learn-responsive-design-module/lessons/sizing-elements/exercises/review-relative-measurements)
 
+[Flexbox or grid - How to decide?](https://www.youtube.com/watch?v=3elGSZSWTbM)
+
+[10 CSS Pro Tips - Code this, NOT that!](https://www.youtube.com/watch?v=Qhaz36TZG5Y)
+
+[Learn CSS Animations In 20 Minutes - For Beginners](https://www.youtube.com/watch?v=SgmNxE9lWcY)
+
+[CSS Keyframes Animation Code Generator](https://www.doozytools.com/dev-tools/css-animation-generator)
 
 # GIT
 [How to Add a New Remote to your Git Repo](https://articles.assembla.com/en/articles/1136998-how-to-add-a-new-remote-to-your-git-repo)
@@ -30,7 +37,8 @@ A collection of resources from the WBS Web & App Development Bootcamp
 [An open source game about learning Git!](https://ohmygit.org/)
 
 [How do I fetch all Git branches?](https://stackoverflow.com/questions/10312521/how-do-i-fetch-all-git-branches)
-# WBS Web & App Development Bootcamp (January 25th 2023) Resources
+
+[7 Git Best Practices to Start Using in Your Next Commit](https://sourcelevel.io/blog/7-git-best-practices-to-start-using-in-your-next-commit)
 
 # Dev Tools
 [Google Dev Tools](https://developer.chrome.com/docs/devtools/overview/)
@@ -40,6 +48,8 @@ A collection of resources from the WBS Web & App Development Bootcamp
 [Responsively App](https://github.com/responsively-org/responsively-app)
 
 [Ceros Inspect](https://inspect.ceros.com/design-upload)
+
+[Rubber Duck Debugging](https://rubberduckdebugging.com/)
 
 # VS Code Extensions
 [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
@@ -56,3 +66,6 @@ A collection of resources from the WBS Web & App Development Bootcamp
 [How do I ask a good question?](https://stackoverflow.com/help/how-to-ask)
 
 [Learn Trello board basics](https://trello.com/en/guide/trello-101)
+
+# Miscellaneous Tools
+[Make My Persona Tool](https://www.hubspot.com/make-my-persona)
