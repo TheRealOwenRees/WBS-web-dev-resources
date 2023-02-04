@@ -1,4 +1,3 @@
-[][][][][][][][][][]
 # WBS Web & App Development Bootcamp (January 25th 2023) Resources
 A collection of resources from the WBS Web & App Development Bootcamp 
 
