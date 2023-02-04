@@ -132,6 +132,8 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [Ceros Inspect](https://inspect.ceros.com/design-upload)
 
+[Can I Use?... Browser Compatibility Checker](https://caniuse.com/)
+
 
 # VS Code Extensions
 [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
