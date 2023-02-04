@@ -1,5 +1,5 @@
 # WBS Web & App Development Bootcamp (January 25th 2023) Resources
-A collection of resources from the WBS Web & App Development Bootcamp 
+A collection of external resources from the WBS Web & App Development Bootcamp
 
 # HTML/CSS
 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
