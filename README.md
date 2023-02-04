@@ -1,4 +1,4 @@
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][]
 # WBS Web & App Development Bootcamp (January 25th 2023) Resources
 A collection of resources from the WBS Web & App Development Bootcamp 
 
@@ -34,6 +34,10 @@ A collection of resources from the WBS Web & App Development Bootcamp
 [Figma Youtube](https://www.youtube.com/@Figma)
 
 ## UI / UX
+[Balsamiq](https://balsamiq.com/)
+
+[Make My Persona Tool](https://www.hubspot.com/make-my-persona)
+
 [A Pilot to the Difference between UI and UX](https://imaginxp.com/a-pilot-to-the-difference-between-ui-and-ux/)
 
 [UI vs. UX Design Explained in a Meme](https://www.patrickhansen.com/2017/09/01/ui-vs-ux-design-meme-problem/)
@@ -59,6 +63,11 @@ A collection of resources from the WBS Web & App Development Bootcamp
 ## Accessibility (a11y)
 [The A11Y Project](https://www.a11yproject.com/)
 
+[ARIA guides](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Guides)
+
+[WAI-ARIA Overview](https://www.w3.org/WAI/standards-guidelines/aria/)
+
+[WAI-ARIA basics](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics)
 
 
 # GIT
@@ -73,6 +82,16 @@ A collection of resources from the WBS Web & App Development Bootcamp
 [What are Git version control best practices](https://about.gitlab.com/topics/version-control/version-control-best-practices/)
 
 [Git Best Practices in 2021](https://acompiler.com/git-best-practices/)
+
+[Git Commit Best Practices](https://gist.github.com/luismts/495d982e8c5b1a0ced4a57cf3d93cf60)
+
+[Git Branch](https://www.codecademy.com/courses/learn-git/lessons/git-branching/exercises/why-branch)
+
+[Birthday Party](https://www.codecademy.com/courses/learn-git/projects/birthday-party)
+
+[Git Teamwork Overview](https://www.codecademy.com/courses/learn-git/lessons/git-teamwork/exercises/remotes)
+
+[JavaScript Homework](https://www.codecademy.com/courses/learn-git/projects/js-homework)
 
 # Dev Tools
 [Google Dev Tools](https://developer.chrome.com/docs/devtools/overview/)
@@ -101,5 +120,15 @@ A collection of resources from the WBS Web & App Development Bootcamp
 
 [Learn Trello board basics](https://trello.com/en/guide/trello-101)
 
+[Full Stack Development Explained](https://www.mongodb.com/languages/full-stack-development)
+
+[Full Stack vs. Specialized Developer: Who Is The Best For Your Remote Business?](https://distantjob.com/blog/full-stack-vs-specialized-developer/)
+
+[Full Stack Developer vs. Front End Developer vs. Back End Developer](https://www.simplilearn.com/full-stack-vs-front-end-vs-back-end-developers-article#:~:text=An%20individual%20who%20operates%20on,website%27s%20aesthetic%20appearance%20and%20feel)
+
+[What is a Full Stack Developer?](https://codeinstitute.net/global/blog/what-does-a-full-stack-developer-do/)
+
+[What Is a Full Stack Developer?](https://bootcamp.cvn.columbia.edu/blog/what-is-a-full-stack-developer/)
+
 # Miscellaneous Tools
-[Make My Persona Tool](https://www.hubspot.com/make-my-persona)
+[Keep tabs on your tabs in Google Chrome](https://blog.google/products/chrome/manage-tabs-with-google-chrome/)
