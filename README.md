@@ -1,4 +1,4 @@
-[][][][][][][][][][][][][][][]
+[][][][][][][][][][]
 # WBS Web & App Development Bootcamp (January 25th 2023) Resources
 A collection of resources from the WBS Web & App Development Bootcamp 
 
@@ -34,6 +34,12 @@ A collection of resources from the WBS Web & App Development Bootcamp
 [Figma Youtube](https://www.youtube.com/@Figma)
 
 [Getting Started with Visual Studio Code and Building HTML Websites](https://www.codecademy.com/paths/web-development/tracks/styling-a-website/modules/local-website-development/articles/visual-studio-code)
+
+[Codeacademy Intermediate CSS Quiz](https://www.codecademy.com/courses/learn-intermediate-css/quizzes/flexbox-quiz)
+
+[Codeacademy Sizing Elements Quiz](https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/responsive-design-and-accessibility/modules/learn-responsive-design-module/quizzes/sizing-elements-quiz)
+
+[Codeacademy Media Queries Quiz](https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/responsive-design-and-accessibility/modules/learn-responsive-design-module/quizzes/learn-responsive-design-media-queries-quiz)
 
 ## UI / UX
 [Balsamiq](https://balsamiq.com/)
@@ -103,9 +109,11 @@ A collection of resources from the WBS Web & App Development Bootcamp
 
 [Gitflow workflow vs Feature Branch workflow](https://medium.com/medvine/gitflow-workflow-vs-feature-branch-workflow-8fb4c26571c5)
 
+[What Are the Best Git Branching Strategies](https://www.flagship.io/git-branching-strategies/)
+
 
 # Javascript
-
+[JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
 # Miscellaneous Programming Guides
 [Rubber Duck Debugging](https://rubberduckdebugging.com/)
