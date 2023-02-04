@@ -1,4 +1,4 @@
-[][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 # WBS Web & App Development Bootcamp (January 25th 2023) Resources
 A collection of resources from the WBS Web & App Development Bootcamp 
 
@@ -53,6 +53,13 @@ A collection of resources from the WBS Web & App Development Bootcamp
 [The Myth of Metaphor](https://mralancooper.medium.com/the-myth-of-metaphor-de16bfa1cbbe)
 
 [The Myth of Finding the Right Metaphor for your UI](https://uxknowledgebase.com/the-myth-of-finding-the-right-metaphor-for-your-ui-9ccc4002e3f7)
+
+[Creativity and Efficiency in Web Writing](https://www.newfangled.com/metaphor-vs-efficiency/)
+
+## Accessibility (a11y)
+[The A11Y Project](https://www.a11yproject.com/)
+
+
 
 # GIT
 [How to Add a New Remote to your Git Repo](https://articles.assembla.com/en/articles/1136998-how-to-add-a-new-remote-to-your-git-repo)
