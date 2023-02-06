@@ -81,6 +81,13 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [Bootstrap - Getting Started](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 
+[What is Bootstrap?](https://www.w3schools.com/whatis/whatis_bootstrap.asp)
+
+[Get started with Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+
+[Bootstrap Grid System Tutorial | Bootstrap 5](https://www.youtube.com/watch?v=Wqu-d_b3K-0)
+
+
 
 # GIT
 [How to Add a New Remote to your Git Repo](https://articles.assembla.com/en/articles/1136998-how-to-add-a-new-remote-to-your-git-repo)
