@@ -40,6 +40,10 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [Codeacademy Media Queries Quiz](https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/responsive-design-and-accessibility/modules/learn-responsive-design-module/quizzes/learn-responsive-design-media-queries-quiz)
 
+[Why you shouldn't use a div for everything](https://www.youtube.com/watch?v=YAqRQoN8ykI)
+
+[5 common beginner CSS mistakes](https://www.youtube.com/watch?v=rxnX1jdoI6c)
+
 ## UI / UX
 [Balsamiq](https://balsamiq.com/)
 
