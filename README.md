@@ -87,6 +87,14 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [Bootstrap Grid System Tutorial | Bootstrap 5](https://www.youtube.com/watch?v=Wqu-d_b3K-0)
 
+[Bootstrap 5 Tutorials - YouTube](https://www.youtube.com/playlist?list=PLp50dWW_m40UvCxL8K83_DotLYiG4mDcM)
+
+[Bootstrap 4 vs. Bootstrap 5: What is the Difference?](https://blog.loginradius.com/engineering/guest-post/bootstrap4-vs-bootstrap5/)
+
+[Migrating to v5](https://getbootstrap.com/docs/5.0/migration/)
+
+[How to Customize Bootstrap with Sass](https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/)
+
 
 
 # GIT
@@ -153,6 +161,10 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 [HTMLHint](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint)
+
+# Portfolio
+[Codeacademy: What is a Portfolio Project?](https://www.codecademy.com/paths/front-end-engineer-career-path/tracks/fecp-html-css-and-js-portfolio-project/modules/fecp-personal-portfolio-website/kanban_projects/portfolio-website)
+
 
 # Miscellanous Guides
 [macOS guide: Screen sharing with Google Meet](https://www.techrepublic.com/article/how-to-enable-screen-sharing-for-google-meet-in-chrome-on-a-mac/#:~:text=While%20in%20a%20meeting%2C%20select,A%20Window%2C%20or%20A%20Tab)
