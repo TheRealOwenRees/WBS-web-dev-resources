@@ -99,6 +99,17 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [How to Customize Bootstrap with Sass](https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/)
 
+# Javascript
+[JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+
+[The Many Quirks of Javascript Dates](https://fjolt.com/article/javascript-date-is-weird)
+
+## Date
+[Date Object](https://www.w3schools.com/jsref/jsref_obj_date.asp)
+
+[JavaScript Date: a Bad Part](https://jj09.net/javascript-date-a-bad-part/)
+
+[Intl.DateTimeFormat() constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat/DateTimeFormat)
 
 
 # GIT
@@ -134,10 +145,6 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [What Are the Best Git Branching Strategies](https://www.flagship.io/git-branching-strategies/)
 
-
-# Javascript
-[JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-
 # Miscellaneous Programming Guides
 [Rubber Duck Debugging](https://rubberduckdebugging.com/)
 
@@ -171,6 +178,8 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 
 # Miscellanous Guides
+[Codeacademy: What is programming?](https://www.codecademy.com/courses/learn-how-to-code/articles/what-is-programming)
+
 [macOS guide: Screen sharing with Google Meet](https://www.techrepublic.com/article/how-to-enable-screen-sharing-for-google-meet-in-chrome-on-a-mac/#:~:text=While%20in%20a%20meeting%2C%20select,A%20Window%2C%20or%20A%20Tab)
 
 [What is e-Residency](https://www.e-resident.gov.ee/)
