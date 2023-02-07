@@ -102,10 +102,15 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 # Javascript
 [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
-[The Many Quirks of Javascript Dates](https://fjolt.com/article/javascript-date-is-weird)
+[Silent Teacher](https://silentteacher.toxicode.fr/hourofcode)
+
+[https://www.freecodecamp.org/news/learn-javascript-closures-in-n-minutes/](https://www.freecodecamp.org/news/learn-javascript-closures-in-n-minutes/)
+
 
 ## Date
 [Date Object](https://www.w3schools.com/jsref/jsref_obj_date.asp)
+
+[The Many Quirks of Javascript Dates](https://fjolt.com/article/javascript-date-is-weird)
 
 [JavaScript Date: a Bad Part](https://jj09.net/javascript-date-a-bad-part/)
 
