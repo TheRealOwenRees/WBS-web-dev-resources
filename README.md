@@ -106,6 +106,10 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [https://www.freecodecamp.org/news/learn-javascript-closures-in-n-minutes/](https://www.freecodecamp.org/news/learn-javascript-closures-in-n-minutes/)
 
+[JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
+
+[JS Cheatsheet](https://htmlcheatsheet.com/js/)
+
 
 ## Date
 [Date Object](https://www.w3schools.com/jsref/jsref_obj_date.asp)
