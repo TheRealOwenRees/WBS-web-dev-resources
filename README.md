@@ -163,6 +163,29 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [Learn How to Code](https://www.codecademy.com/learn/learn-how-to-code)
 
+[Learn JavaScript Closures in 6 Minutes](https://www.freecodecamp.org/news/learn-javascript-closures-in-n-minutes/)
+
+[Gentle Explanation of "this" in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
+
+[JavaScript Recursive Function](https://www.javascripttutorial.net/javascript-recursive-function/)
+
+[30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+
+[JavaScript For Cats](http://jsforcats.com/)
+
+[When should one use Arrow functions in ES6 ?](https://www.geeksforgeeks.org/when-should-one-use-arrow-functions-in-es6/)
+
+[Understanding Arrow Functions in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-arrow-functions-in-javascript)
+
+[70 Free JavaScript Books](https://freefrontend.com/javascript-books/#javascript-books)
+
+[DevFreeBook JS](https://devfreebooks.github.io/javascript/)
+
+[Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
+[Eloquent Javascript](https://eloquentjavascript.net/)
+
+
 # Dev Tools
 [Google Dev Tools](https://developer.chrome.com/docs/devtools/overview/)
 
