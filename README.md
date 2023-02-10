@@ -120,6 +120,13 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [Intl.DateTimeFormat() constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat/DateTimeFormat)
 
+## Recursion
+[Reasons To Use Recursion and How It Works](https://dev.to/manarabdelkarim/why-and-how-to-solve-iterative-problems-recursively-the-smart-coding-4nj2)
+
+[Recursion Vs Iteration |10 Differences (& When to use?)](https://favtutor.com/blogs/recursion-vs-iteration)
+
+[When to use a function declaration vs. a function expression](https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/)
+
 
 # GIT
 [How to Add a New Remote to your Git Repo](https://articles.assembla.com/en/articles/1136998-how-to-add-a-new-remote-to-your-git-repo)
