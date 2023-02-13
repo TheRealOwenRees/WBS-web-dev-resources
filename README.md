@@ -239,5 +239,7 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [What Is a Full Stack Developer?](https://bootcamp.cvn.columbia.edu/blog/what-is-a-full-stack-developer/)
 
+[Codeacademy: Thinking About Errors in Your Code Differently](https://www.codecademy.com/courses/javascript-errors-debugging/articles/thinking-about-errors-in-your-code-differently)
+
 # Miscellaneous Tools
 [Keep tabs on your tabs in Google Chrome](https://blog.google/products/chrome/manage-tabs-with-google-chrome/)
