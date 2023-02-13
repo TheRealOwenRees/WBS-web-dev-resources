@@ -110,6 +110,8 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [JS Cheatsheet](https://htmlcheatsheet.com/js/)
 
+[Number() vs parseInt()](https://thisthat.dev/number-constructor-vs-parse-int/#:~:text=Number()%20converts%20the%20type%20whereas%20parseInt%20parses%20the%20value%20of%20input.&text=As%20you%20see%2C%20parseInt%20will,to%20convert%20the%20entire%20string)
+
 
 ## Date
 [Date Object](https://www.w3schools.com/jsref/jsref_obj_date.asp)
