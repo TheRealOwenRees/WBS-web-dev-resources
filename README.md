@@ -194,6 +194,8 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [Eloquent Javascript](https://eloquentjavascript.net/)
 
+[Simplified Git Flow](https://medium.com/goodtogoat/simplified-git-flow-5dc37ba76ea8)
+
 
 # Dev Tools
 [Google Dev Tools](https://developer.chrome.com/docs/devtools/overview/)
