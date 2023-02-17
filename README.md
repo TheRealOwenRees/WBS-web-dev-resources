@@ -112,6 +112,12 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [Number() vs parseInt()](https://thisthat.dev/number-constructor-vs-parse-int/#:~:text=Number()%20converts%20the%20type%20whereas%20parseInt%20parses%20the%20value%20of%20input.&text=As%20you%20see%2C%20parseInt%20will,to%20convert%20the%20entire%20string)
 
+[Object initializer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
+
+[JavaScript Style Guide](https://www.w3schools.com/js/js_conventions.asp)
+
+[JavaScript Best Practices](https://www.w3schools.com/js/js_best_practices.asp)
+
 
 ## Date
 [Date Object](https://www.w3schools.com/jsref/jsref_obj_date.asp)
@@ -128,6 +134,15 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 [Recursion Vs Iteration |10 Differences (& When to use?)](https://favtutor.com/blogs/recursion-vs-iteration)
 
 [When to use a function declaration vs. a function expression](https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/)
+
+# DOM Manipulation
+[What is the Difference Between textContents, innerText, and innerHtml?](https://www.microfocus.com/documentation/silk-test/200/en/silktestworkbench-help-en/SILKTEST-21EEFF3F-DIFFERENCEBETWEENTEXTCONTENTSINNERTEXTINNERHTML-REF.html)
+
+[HTMLCollection vs NodeList](https://medium.com/@layne_celeste/htmlcollection-vs-nodelist-4b83e3a4fb4b)
+
+[5 Must-Know HTMLCollection Vs NodeList Differences In JavaScript](https://softauthor.com/javascript-htmlcollection-vs-nodelist/)
+
+[Style visibility Property](https://www.w3schools.com/jsref/prop_style_visibility.asp)
 
 
 # GIT
@@ -158,6 +173,8 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 [Visualize Git](https://github.com/git-school/visualizing-git)
 
 [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
+[Simplified Git Flow](https://medium.com/goodtogoat/simplified-git-flow-5dc37ba76ea8)
 
 [Gitflow workflow vs Feature Branch workflow](https://medium.com/medvine/gitflow-workflow-vs-feature-branch-workflow-8fb4c26571c5)
 
