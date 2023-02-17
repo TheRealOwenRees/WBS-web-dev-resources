@@ -114,6 +114,8 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [Object initializer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
 
+[Difference between console.dir and console.log in javascript?](https://www.tutorialspoint.com/difference-between-console-dir-and-console-log-in-javascript#:~:text=The%20main%20difference%20between%20these,of%20the%20specified%20JavaScript%20object)
+
 [JavaScript Style Guide](https://www.w3schools.com/js/js_conventions.asp)
 
 [JavaScript Best Practices](https://www.w3schools.com/js/js_best_practices.asp)
@@ -143,6 +145,8 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 [5 Must-Know HTMLCollection Vs NodeList Differences In JavaScript](https://softauthor.com/javascript-htmlcollection-vs-nodelist/)
 
 [Style visibility Property](https://www.w3schools.com/jsref/prop_style_visibility.asp)
+
+[Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 
 
 # GIT
