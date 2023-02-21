@@ -44,6 +44,8 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [5 common beginner CSS mistakes](https://www.youtube.com/watch?v=rxnX1jdoI6c)
 
+[Using data attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes)
+
 ## UI / UX
 [Balsamiq](https://balsamiq.com/)
 
@@ -120,6 +122,14 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [JavaScript Best Practices](https://www.w3schools.com/js/js_best_practices.asp)
 
+[Working with objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+
+[Object references and copying](https://javascript.info/object-copy)
+
+[How to get a grip on reference vs value in JavaScript](https://www.freecodecamp.org/news/how-to-get-a-grip-on-reference-vs-value-in-javascript-cba3f86da223/)
+
+[Event bubbling, capturing and how to prevent them ](https://dev.to/0shuvo0/event-bubbling-capturing-and-how-to-prevent-them-9n5)
+
 
 ## Date
 [Date Object](https://www.w3schools.com/jsref/jsref_obj_date.asp)
@@ -136,6 +146,16 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 [Recursion Vs Iteration |10 Differences (& When to use?)](https://favtutor.com/blogs/recursion-vs-iteration)
 
 [When to use a function declaration vs. a function expression](https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/)
+
+# Web API
+[Element.matches()](https://developer.mozilla.org/en-US/docs/Web/API/Element/matches)
+
+[HTMLElement.dataset](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset)
+
+[Element: dblclick event](https://developer.mozilla.org/en-US/docs/Web/API/Element/dblclick_event)
+
+[eval()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval)
+
 
 # DOM Manipulation
 [What is the Difference Between textContents, innerText, and innerHtml?](https://www.microfocus.com/documentation/silk-test/200/en/silktestworkbench-help-en/SILKTEST-21EEFF3F-DIFFERENCEBETWEENTEXTCONTENTSINNERTEXTINNERHTML-REF.html)
@@ -217,6 +237,10 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [Simplified Git Flow](https://medium.com/goodtogoat/simplified-git-flow-5dc37ba76ea8)
 
+# React
+[Learn React In 30 Minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY)
+
+[React JS Full Course 2022 | Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
 
 # Dev Tools
 [Google Dev Tools](https://developer.chrome.com/docs/devtools/overview/)
