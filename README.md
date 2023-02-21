@@ -126,10 +126,15 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [Object references and copying](https://javascript.info/object-copy)
 
+[Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+
 [How to get a grip on reference vs value in JavaScript](https://www.freecodecamp.org/news/how-to-get-a-grip-on-reference-vs-value-in-javascript-cba3f86da223/)
 
 [Event bubbling, capturing and how to prevent them ](https://dev.to/0shuvo0/event-bubbling-capturing-and-how-to-prevent-them-9n5)
 
+[JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+
+[State of JS](https://2022.stateofjs.com/en-US/)
 
 ## Date
 [Date Object](https://www.w3schools.com/jsref/jsref_obj_date.asp)
