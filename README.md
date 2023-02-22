@@ -128,11 +128,15 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 
+[How To Use Destructuring And The Spread Operator? (One Of The Best JS Features)](https://blog.webdevsimplified.com/2020-08/destructuring-and-spread/)
+
 [How to get a grip on reference vs value in JavaScript](https://www.freecodecamp.org/news/how-to-get-a-grip-on-reference-vs-value-in-javascript-cba3f86da223/)
 
 [Event bubbling, capturing and how to prevent them ](https://dev.to/0shuvo0/event-bubbling-capturing-and-how-to-prevent-them-9n5)
 
 [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+
+[JavaScript module examples](https://github.com/mdn/js-examples/tree/main/module-examples)
 
 [State of JS](https://2022.stateofjs.com/en-US/)
 
@@ -172,6 +176,8 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 [Style visibility Property](https://www.w3schools.com/jsref/prop_style_visibility.asp)
 
 [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+
+[Navigating the DOM with JS 101](https://medium.com/analytics-vidhya/navigating-the-dom-with-js-101-a39764395efd)
 
 
 # GIT
@@ -292,6 +298,8 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 [What Is a Full Stack Developer?](https://bootcamp.cvn.columbia.edu/blog/what-is-a-full-stack-developer/)
 
 [Codeacademy: Thinking About Errors in Your Code Differently](https://www.codecademy.com/courses/javascript-errors-debugging/articles/thinking-about-errors-in-your-code-differently)
+
+[I built the same app 10 times // Which JS Framework is best?](https://www.youtube.com/watch?v=cuHDQhDhvPE)
 
 # Miscellaneous Tools
 [Keep tabs on your tabs in Google Chrome](https://blog.google/products/chrome/manage-tabs-with-google-chrome/)
