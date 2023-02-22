@@ -140,6 +140,10 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [State of JS](https://2022.stateofjs.com/en-US/)
 
+[What is Babel?](https://babeljs.io/docs/index.html)
+
+[Webpack](https://webpack.js.org/)
+
 ## Date
 [Date Object](https://www.w3schools.com/jsref/jsref_obj_date.asp)
 
