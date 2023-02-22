@@ -104,6 +104,8 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 # Javascript
 [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
+[The Ultimate React.js Guide](https://attachments.convertkitcdnn2.com/775726/2b060dc0-6e83-41a1-b0f2-867ff6a49a8e/ReactJS-Guide.pdf)
+
 [Silent Teacher](https://silentteacher.toxicode.fr/hourofcode)
 
 [https://www.freecodecamp.org/news/learn-javascript-closures-in-n-minutes/](https://www.freecodecamp.org/news/learn-javascript-closures-in-n-minutes/)
@@ -306,6 +308,8 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 [I built the same app 10 times // Which JS Framework is best?](https://www.youtube.com/watch?v=cuHDQhDhvPE)
 
 [MERN Stack Explained](https://www.mongodb.com/mern-stack)
+
+[What is a Single-Page App?](https://elmprogramming.com/what-is-a-single-page-app.html)
 
 # Miscellaneous Tools
 [Keep tabs on your tabs in Google Chrome](https://blog.google/products/chrome/manage-tabs-with-google-chrome/)
