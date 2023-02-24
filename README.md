@@ -257,7 +257,43 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 # React
 [Learn React In 30 Minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY)
 
+[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+
+[React for Beginners - Build a Todo-List App](https://www.youtube.com/watch?v=nUl5QLkVdvU)
+
 [React JS Full Course 2022 | Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
+
+[Quick Start](https://beta.reactjs.org/learn#conditional-rendering)
+
+[Your First Component](https://beta.reactjs.org/learn/your-first-component#challenges)
+
+[Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
+
+[Built-in React Hooks](https://beta.reactjs.org/reference/react)
+
+[Using the Effect Hook](https://en.reactjs.org/docs/hooks-effect.html)
+
+[Synchronizing with Effects](https://beta.reactjs.org/learn/synchronizing-with-effects)
+
+[State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+
+[Responding to Events](https://beta.reactjs.org/learn/responding-to-events#)
+
+[Passing Props to a Component](https://beta.reactjs.org/learn/passing-props-to-a-component)
+
+[Reacting to Input with State](Reacting to Input with State)
+
+[Reconciliation](https://reactjs.org/docs/reconciliation.html#recursing-on-children)
+
+[Lists and Keys](https://reactjs.org/docs/lists-and-keys.html#keys)
+
+[DOM Elements](https://reactjs.org/docs/dom-elements.html#style)
+
+[React Without JSX](https://reactjs.org/docs/react-without-jsx.html)
+
+[Add React to a Website](Add React to a Website)
+
+
 
 # Dev Tools
 [Google Dev Tools](https://developer.chrome.com/docs/devtools/overview/)
