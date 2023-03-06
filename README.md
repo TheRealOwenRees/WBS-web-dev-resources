@@ -146,6 +146,30 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [Webpack](https://webpack.js.org/)
 
+[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+
+[Learn Fetch API In 6 Minutes](https://www.youtube.com/watch?v=cuEtnrL9-H0)
+
+[How to use Axios with React](https://dev.to/femi_dev/how-to-use-axios-with-react-5fom)
+
+[JavaScript Promises In 10 Minutes](https://www.youtube.com/watch?v=DHvZLI7Db8E)
+
+[Ajax](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+
+[XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
+
+[Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+[Using promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+
+[JavaScript Promise and Promise Chaining](https://www.programiz.com/javascript/promise)
+
+[Javscript async/await](https://www.programiz.com/javascript/async-await)
+
+[async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+
+[await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
+
 ## Date
 [Date Object](https://www.w3schools.com/jsref/jsref_obj_date.asp)
 
@@ -293,7 +317,7 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [Add React to a Website](Add React to a Website)
 
-
+[Adding Custom Environment Variables](https://create-react-app.dev/docs/adding-custom-environment-variables/)
 
 # Dev Tools
 [Google Dev Tools](https://developer.chrome.com/docs/devtools/overview/)
