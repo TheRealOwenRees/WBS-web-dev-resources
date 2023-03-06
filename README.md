@@ -158,7 +158,11 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 
+[HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
+
 [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+[JavaScript Promises - Explain Like I'm Five](https://blog.greenroots.info/javascript-promises-explain-like-i-am-five)
 
 [Using promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
 
@@ -169,6 +173,17 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 [async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 
 [await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
+
+## GraphQL
+[Introduction to GraphQL](https://graphql.org/learn/)
+
+[Getting Started With GraphQL.js](https://graphql.org/graphql-js/)
+
+[Introduction to Apollo Client](https://www.apollographql.com/docs/react/)
+
+[Key pros and cons of GraphQL for your project](https://sunscrapers.com/blog/key-pros-and-cons-of-graphql/)
+
+[Pros and Cons of GraphQL](https://medium.com/expedia-group-tech/pros-and-cons-of-graphql-2ec9104c74f2)
 
 ## Date
 [Date Object](https://www.w3schools.com/jsref/jsref_obj_date.asp)
@@ -330,6 +345,8 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 
 [Can I Use?... Browser Compatibility Checker](https://caniuse.com/)
 
+[Postman](https://www.postman.com/downloads/)
+
 
 # VS Code Extensions
 [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
@@ -370,6 +387,14 @@ A collection of external resources from the WBS Web & App Development Bootcamp
 [MERN Stack Explained](https://www.mongodb.com/mern-stack)
 
 [What is a Single-Page App?](https://elmprogramming.com/what-is-a-single-page-app.html)
+
+[What is an API?](https://www.redhat.com/en/topics/api/what-are-application-programming-interfaces)
+
+[What is a REST API?](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
+
+[Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
+
+[Stateless protocol](https://en.wikipedia.org/wiki/Stateless_protocol)
 
 # Miscellaneous Tools
 [Keep tabs on your tabs in Google Chrome](https://blog.google/products/chrome/manage-tabs-with-google-chrome/)
